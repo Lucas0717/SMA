@@ -9,7 +9,7 @@
 1. Get dependency:         
 (1).py files:      
     - extractor_depend_1repo.py: Extract the 1-hop in the dependencies of the repository
-    - extractor_depend.py: Extract the multi-hop in the dependencies of the repository
+    - extractor_depend.py: Extract the multi-hop in the dependencies of the repository 
 (2).ipynb files:
     - test_extractor_depend_1repo_1hop.ipynb: test and extract 1-hop dependencies in 1 repository
     - test_extractor_depend_1repo_2hop.ipynb: test and extract 2-hop dependencies in 1 repository
