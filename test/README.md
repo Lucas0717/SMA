@@ -1,7 +1,7 @@
 # test data (3k repos with dependency files)
-'''
+'
 3k_valid_repos
-'''
+'
 
 
 # test file
@@ -22,7 +22,7 @@
       
 # Output result
 
-##Extract dependency result:
+## Extract dependency result:
 - 1_repodata_1hop: Get extract  1-hop dependency result from 1 repository
 - 1_repodata_2hop: Get extract  2-hop dependency result from 1 repository
 - 3k_repodata_1hop: Get extract  1-hop dependency result from 3k repository
