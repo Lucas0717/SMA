@@ -1,7 +1,6 @@
 # test data (3k repos with dependency files)
-'
+
 3k_valid_repos
-'
 
 
 # test file
